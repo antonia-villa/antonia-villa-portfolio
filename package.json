@@ -52,6 +52,5 @@
   "devDependencies": {
     "gh-pages": "^6.1.1",
     "sass": "^1.52.2"
-  },
-  "homepage": "https://github.com/antonia-villa/ahv-react-portfolio"
+  }
 }
