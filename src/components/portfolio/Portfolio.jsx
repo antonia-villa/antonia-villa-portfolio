@@ -7,9 +7,6 @@ const Portfolio = () => {
   const [getModal, setGetModal] = useState(false);
   const [modalDataItem, setModalDataItem] = useState();
 
-
-  console.log(PortfolioData)
-
   const handleModal = (id) => {
     setGetModal(true);
     setModalDataItem(PortfolioData.filter(item => item.id === id)[0])

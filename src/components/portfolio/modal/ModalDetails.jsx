@@ -4,7 +4,6 @@ import PeriodicUsageReportPDF from './Periodic_Usage_Report.pdf'
 import CustomerLifecycleAnalysis from './Customer_Lifecycle_Analysis.pdf'
 
 const ModalDetails = ({details}) => {
-    console.log('details', details)
 
    const PDFDownload = ({download_title}) => {
     switch(download_title) {

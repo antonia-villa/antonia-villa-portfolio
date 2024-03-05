@@ -7,7 +7,6 @@ import ModalDetails from "./ModalDetails";
 import { MultiMediaProject, SimpleProject, VideoProject } from "./modalProjectType";
 
 const Modal = ({ portfolioDataItem, setGetModal }) => {
-  console.log('portfolioDataItem', portfolioDataItem)
 
   // Render dynamic modal image content based on project type
 const modalImage = (portfolioDataItem) => {
