@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.5cffaf74.css",
-    "main.js": "/static/js/main.20a47f47.js",
+    "main.js": "/static/js/main.ebf8aa1d.js",
     "static/js/206.c7ebfab1.chunk.js": "/static/js/206.c7ebfab1.chunk.js",
     "static/media/Periodic_Usage_Report.pdf": "/static/media/Periodic_Usage_Report.0c0bcd0a93760cf6cc6a.pdf",
     "static/media/Project2_cover_image.png": "/static/media/Project2_cover_image.6bfb1ccb6fba8fae83f6.png",
@@ -73,6 +73,6 @@
   },
   "entrypoints": [
     "static/css/main.5cffaf74.css",
-    "static/js/main.20a47f47.js"
+    "static/js/main.ebf8aa1d.js"
   ]
 }
