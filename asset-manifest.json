@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/antonia-villa-portfolio/static/css/main.b6282f8c.css",
-    "main.js": "/antonia-villa-portfolio/static/js/main.78cb822c.js",
+    "main.js": "/antonia-villa-portfolio/static/js/main.b1a67c3c.js",
     "static/js/206.c7ebfab1.chunk.js": "/antonia-villa-portfolio/static/js/206.c7ebfab1.chunk.js",
     "static/media/Periodic_Usage_Report.pdf": "/antonia-villa-portfolio/static/media/Periodic_Usage_Report.0c0bcd0a93760cf6cc6a.pdf",
     "static/media/Project2_cover_image.png": "/antonia-villa-portfolio/static/media/Project2_cover_image.6bfb1ccb6fba8fae83f6.png",
@@ -73,6 +73,6 @@
   },
   "entrypoints": [
     "static/css/main.b6282f8c.css",
-    "static/js/main.78cb822c.js"
+    "static/js/main.b1a67c3c.js"
   ]
 }
