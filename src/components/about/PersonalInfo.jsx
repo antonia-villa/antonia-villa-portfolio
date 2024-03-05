@@ -4,7 +4,7 @@ const personalInfoContent = [
   { meta: "Name", metaInfo: "Antonia Villa" },
   { meta: "Freelance", metaInfo: "Available" },
   { meta: "Residence", metaInfo: "United States" },
-  { meta: "Email", metaInfo: "hello@antoniavilla.com" },
+  { meta: "Email", metaInfo: "antonia.herkness@gmail.com" },
   { meta: "Languages", metaInfo: "English" },
 ];
 
