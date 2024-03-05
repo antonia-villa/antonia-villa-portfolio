@@ -11,16 +11,10 @@ const AllRoutes = () => {
         <ScrollTopBehaviour />
         <Routes>
           <Route path="/" element={<HomeRtl />} />
-          <Route index element={<HomeRtl />} />
           <Route path="*" element={<NotFound />} />
         </Routes>
     </BrowserRouter>
   );
 };
 
-
-
 export default AllRoutes;
-
-
-{/* <Route path="/" element={<HomeRtl />} /> */}
