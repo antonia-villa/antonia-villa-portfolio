@@ -1,4 +1,4 @@
-import ResumePDF from './AHV_Resume_February2024.pdf'
+import ResumePDF from './AHV_Resume_March2024.pdf'
 
 export const DownloadCV = () => {
     return (
