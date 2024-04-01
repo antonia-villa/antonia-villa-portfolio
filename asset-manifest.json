@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.5cffaf74.css",
-    "main.js": "/static/js/main.c4489b4b.js",
+    "main.css": "/static/css/main.9bba7018.css",
+    "main.js": "/static/js/main.f6b5a7e2.js",
     "static/js/206.c7ebfab1.chunk.js": "/static/js/206.c7ebfab1.chunk.js",
     "static/media/Periodic_Usage_Report.pdf": "/static/media/Periodic_Usage_Report.0c0bcd0a93760cf6cc6a.pdf",
     "static/media/Project2_cover_image.png": "/static/media/Project2_cover_image.6bfb1ccb6fba8fae83f6.png",
@@ -72,7 +72,7 @@
     "index.html": "/index.html"
   },
   "entrypoints": [
-    "static/css/main.5cffaf74.css",
-    "static/js/main.c4489b4b.js"
+    "static/css/main.9bba7018.css",
+    "static/js/main.f6b5a7e2.js"
   ]
 }
