@@ -1,7 +1,7 @@
 {
   "name": "tunis",
   "version": "2.2.1",
-  "private": true,
+  "private": false,
   "homepage": "https://antonia-villa.github.io/antonia-villa-portfolio",
   "dependencies": {
     "@emailjs/browser": "^3.6.2",
